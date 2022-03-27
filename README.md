@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Umer Farooq
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front-end development
-- 💞️ I want to learn artificaial intelligence
+- 💞️ I want to learn artificial intelligence
 - 📫 How to reach me aaafarooq285@gmail.com
 
 <!---
